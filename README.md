@@ -1,5 +1,5 @@
-Oi, meu nome é Igor Gomes
-Sou um aficionado por xadrez e escalada.
-Sou estudante da UFSC em Joinville
-Estou iniciando no mundo DEV
-E nesse espaço pode-se conferir meu desenvolvimento.
+Oi, meu nome é Igor Gomes,
+sou aficionado por xadrez e escalada.
+Estudo na UFSC no campus em Joinville,
+e estou iniciando no mundo DEV.
+Nesse espaço pode-se conferir meu desenvolvimento.
